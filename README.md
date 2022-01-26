@@ -15,6 +15,9 @@ Untuk configurasinya sendiri kami menggunakan Apache Web server untuk deploy web
 # <h3>Copyright<br></h3>
 Copyright(c) 2022
 * Kewirausahaan Berbasis Teknologi
-* Ngalam Tech
+* Ngalam Tech<br>
+  M.Fikri Y.R       (202010370311201)<br>
+  Hamdani Zulva     (202010370311211)<br>
+  Hakkan Nabila D.  (202010370311214)
 * Syaifuddin,.S.kom,.M.kom
 * Universitas Muhammadiyah Malang
